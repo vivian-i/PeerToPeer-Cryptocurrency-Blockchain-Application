@@ -1,0 +1,196 @@
+2024/06/19 15:14:44 [INFO] ReservedBankAcct() - creating a reserved bank account in the blockchain with block id:0, from:0, to:0, amount:0, offset:229755, curr hash:12345625696244847117, prev hash:.
+2024/06/19 15:14:45 [INFO] startServerThread() - opening the host.
+2024/06/19 15:14:45 [INFO] registerAClient() - Client on port 8001 is registered, running server thread.
+2024/06/19 15:14:49 [ERROR] startNetworkingThread() - an endpoint not found exception occured.
+2024/06/19 15:14:57 [INFO] PostingTransaction() - post a transaction.
+2024/06/19 15:14:57 [INFO] startNetworkingThread() - dequeue a transaction from 0 to 1 with amount of 10.
+2024/06/19 15:14:57 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2024/06/19 15:14:57 [INFO] GetTransactedCurrCoinBalance() - user 0 is a reserved bank account. it has infinite amount of coin.
+2024/06/19 15:14:57 [INFO] startNetworkingThread() - all transaction details are validated. the current coin balance is 3.402823E+38.
+2024/06/19 15:14:57 [INFO] startNetworkingThread() - the current coin balance is enough for transaction to occurs.
+2024/06/19 15:14:57 [INFO] newHashGenerator() - trying to generate a new block with block id:1, from:0, to:1, amount:10, offset:195675, curr hash:12345645888610915060, prev hash:12345625696244847117.
+2024/06/19 15:14:57 [INFO] ValidateNewBlock() - validating the new block.
+2024/06/19 15:14:57 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2024/06/19 15:14:57 [INFO] GetTransactedCurrCoinBalance() - user 0 is a reserved bank account. it has infinite amount of coin.
+2024/06/19 15:14:57 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2024/06/19 15:14:57 [INFO] GetTransactedCurrCoinBalance() - user 0 is a reserved bank account. it has infinite amount of coin.
+2024/06/19 15:14:57 [INFO] ValidateNewBlock() - the new block is a correct block.
+2024/06/19 15:14:57 [INFO] SubmitNewBlock() - A new block is added to the blockchain with block id:1, from:0, to:1, amount:10, offset:195675, curr hash:12345645888610915060, prev hash:12345625696244847117.
+2024/06/19 15:14:57 [INFO] PostingTransaction() - post a transaction.
+2024/06/19 15:14:57 [INFO] startNetworkingThread() - dequeue a transaction from 0 to 1 with amount of 10.
+2024/06/19 15:14:57 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2024/06/19 15:14:57 [INFO] GetTransactedCurrCoinBalance() - user 0 is a reserved bank account. it has infinite amount of coin.
+2024/06/19 15:14:57 [INFO] startNetworkingThread() - all transaction details are validated. the current coin balance is 3.402823E+38.
+2024/06/19 15:14:57 [INFO] startNetworkingThread() - the current coin balance is enough for transaction to occurs.
+2024/06/19 15:14:57 [INFO] newHashGenerator() - trying to generate a new block with block id:2, from:0, to:1, amount:10, offset:10505, curr hash:12345899233020633696, prev hash:12345645888610915060.
+2024/06/19 15:14:57 [INFO] ValidateNewBlock() - validating the new block.
+2024/06/19 15:14:57 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2024/06/19 15:14:57 [INFO] GetTransactedCurrCoinBalance() - user 0 is a reserved bank account. it has infinite amount of coin.
+2024/06/19 15:14:57 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2024/06/19 15:14:57 [INFO] GetTransactedCurrCoinBalance() - user 0 is a reserved bank account. it has infinite amount of coin.
+2024/06/19 15:14:57 [INFO] ValidateNewBlock() - the new block is a correct block.
+2024/06/19 15:14:57 [INFO] SubmitNewBlock() - A new block is added to the blockchain with block id:2, from:0, to:1, amount:10, offset:10505, curr hash:12345899233020633696, prev hash:12345645888610915060.
+2024/06/19 15:15:07 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2024/06/19 15:15:07 [INFO] GetTransactedCurrCoinBalance() - user 1 has 20 coin.
+2024/06/19 15:15:08 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2024/06/19 15:15:08 [INFO] GetTransactedCurrCoinBalance() - user 1 has 20 coin.
+2024/06/19 15:15:10 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2024/06/19 15:15:10 [INFO] GetTransactedCurrCoinBalance() - user 1 has 20 coin.
+2024/06/19 15:15:13 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2024/06/19 15:15:13 [INFO] GetTransactedCurrCoinBalance() - user 0 is a reserved bank account. it has infinite amount of coin.
+2024/06/19 15:15:17 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2024/06/19 15:15:17 [INFO] GetTransactedCurrCoinBalance() - user 1 has 20 coin.
+2024/06/19 15:15:33 [INFO] PostingTransaction() - post a transaction.
+2024/06/19 15:15:33 [INFO] startNetworkingThread() - dequeue a transaction from 1 to 2 with amount of 1.
+2024/06/19 15:15:33 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2024/06/19 15:15:33 [INFO] GetTransactedCurrCoinBalance() - user 1 has 20 coin.
+2024/06/19 15:15:33 [INFO] startNetworkingThread() - all transaction details are validated. the current coin balance is 20.
+2024/06/19 15:15:33 [INFO] startNetworkingThread() - the current coin balance is enough for transaction to occurs.
+2024/06/19 15:15:33 [INFO] newHashGenerator() - trying to generate a new block with block id:3, from:1, to:2, amount:1, offset:54590, curr hash:1234570975629002542, prev hash:12345899233020633696.
+2024/06/19 15:15:33 [INFO] ValidateNewBlock() - validating the new block.
+2024/06/19 15:15:33 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2024/06/19 15:15:33 [INFO] GetTransactedCurrCoinBalance() - user 1 has 20 coin.
+2024/06/19 15:15:33 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2024/06/19 15:15:33 [INFO] GetTransactedCurrCoinBalance() - user 1 has 20 coin.
+2024/06/19 15:15:33 [INFO] ValidateNewBlock() - the new block is a correct block.
+2024/06/19 15:15:33 [INFO] SubmitNewBlock() - A new block is added to the blockchain with block id:3, from:1, to:2, amount:1, offset:54590, curr hash:1234570975629002542, prev hash:12345899233020633696.
+2024/06/19 15:15:36 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2024/06/19 15:15:36 [INFO] GetTransactedCurrCoinBalance() - user 1 has 19 coin.
+2024/06/19 15:15:38 [INFO] PostingTransaction() - post a transaction.
+2024/06/19 15:15:38 [INFO] startNetworkingThread() - dequeue a transaction from 1 to 2 with amount of 1.
+2024/06/19 15:15:38 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2024/06/19 15:15:38 [INFO] GetTransactedCurrCoinBalance() - user 1 has 19 coin.
+2024/06/19 15:15:38 [INFO] startNetworkingThread() - all transaction details are validated. the current coin balance is 19.
+2024/06/19 15:15:38 [INFO] startNetworkingThread() - the current coin balance is enough for transaction to occurs.
+2024/06/19 15:15:38 [INFO] newHashGenerator() - trying to generate a new block with block id:4, from:1, to:2, amount:1, offset:33980, curr hash:12345489608181418389, prev hash:1234570975629002542.
+2024/06/19 15:15:38 [INFO] ValidateNewBlock() - validating the new block.
+2024/06/19 15:15:38 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2024/06/19 15:15:38 [INFO] GetTransactedCurrCoinBalance() - user 1 has 19 coin.
+2024/06/19 15:15:38 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2024/06/19 15:15:38 [INFO] GetTransactedCurrCoinBalance() - user 1 has 19 coin.
+2024/06/19 15:15:38 [INFO] ValidateNewBlock() - the new block is a correct block.
+2024/06/19 15:15:38 [INFO] SubmitNewBlock() - A new block is added to the blockchain with block id:4, from:1, to:2, amount:1, offset:33980, curr hash:12345489608181418389, prev hash:1234570975629002542.
+2024/06/19 15:15:38 [INFO] PostingTransaction() - post a transaction.
+2024/06/19 15:15:38 [INFO] startNetworkingThread() - dequeue a transaction from 1 to 2 with amount of 1.
+2024/06/19 15:15:38 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2024/06/19 15:15:38 [INFO] GetTransactedCurrCoinBalance() - user 1 has 18 coin.
+2024/06/19 15:15:38 [INFO] startNetworkingThread() - all transaction details are validated. the current coin balance is 18.
+2024/06/19 15:15:38 [INFO] startNetworkingThread() - the current coin balance is enough for transaction to occurs.
+2024/06/19 15:15:38 [INFO] newHashGenerator() - trying to generate a new block with block id:5, from:1, to:2, amount:1, offset:54205, curr hash:12345493345466109175, prev hash:12345489608181418389.
+2024/06/19 15:15:38 [INFO] ValidateNewBlock() - validating the new block.
+2024/06/19 15:15:38 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2024/06/19 15:15:38 [INFO] GetTransactedCurrCoinBalance() - user 1 has 18 coin.
+2024/06/19 15:15:38 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2024/06/19 15:15:38 [INFO] GetTransactedCurrCoinBalance() - user 1 has 18 coin.
+2024/06/19 15:15:38 [INFO] ValidateNewBlock() - the new block is a correct block.
+2024/06/19 15:15:38 [INFO] SubmitNewBlock() - A new block is added to the blockchain with block id:5, from:1, to:2, amount:1, offset:54205, curr hash:12345493345466109175, prev hash:12345489608181418389.
+2024/06/19 15:15:40 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2024/06/19 15:15:40 [INFO] GetTransactedCurrCoinBalance() - user 1 has 17 coin.
+2024/06/19 15:15:42 [INFO] PostingTransaction() - post a transaction.
+2024/06/19 15:15:42 [INFO] startNetworkingThread() - dequeue a transaction from 1 to 2 with amount of 1.
+2024/06/19 15:15:42 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2024/06/19 15:15:42 [INFO] GetTransactedCurrCoinBalance() - user 1 has 17 coin.
+2024/06/19 15:15:42 [INFO] startNetworkingThread() - all transaction details are validated. the current coin balance is 17.
+2024/06/19 15:15:42 [INFO] startNetworkingThread() - the current coin balance is enough for transaction to occurs.
+2024/06/19 15:15:42 [INFO] newHashGenerator() - trying to generate a new block with block id:6, from:1, to:2, amount:1, offset:29615, curr hash:12345676051552483821, prev hash:12345493345466109175.
+2024/06/19 15:15:42 [INFO] ValidateNewBlock() - validating the new block.
+2024/06/19 15:15:42 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2024/06/19 15:15:42 [INFO] GetTransactedCurrCoinBalance() - user 1 has 17 coin.
+2024/06/19 15:15:42 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2024/06/19 15:15:42 [INFO] GetTransactedCurrCoinBalance() - user 1 has 17 coin.
+2024/06/19 15:15:42 [INFO] ValidateNewBlock() - the new block is a correct block.
+2024/06/19 15:15:42 [INFO] SubmitNewBlock() - A new block is added to the blockchain with block id:6, from:1, to:2, amount:1, offset:29615, curr hash:12345676051552483821, prev hash:12345493345466109175.
+2024/06/19 15:15:43 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2024/06/19 15:15:43 [INFO] GetTransactedCurrCoinBalance() - user 1 has 16 coin.
+2024/06/19 15:15:45 [INFO] PostingTransaction() - post a transaction.
+2024/06/19 15:15:45 [INFO] startNetworkingThread() - dequeue a transaction from 1 to 2 with amount of 1.
+2024/06/19 15:15:45 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2024/06/19 15:15:45 [INFO] GetTransactedCurrCoinBalance() - user 1 has 16 coin.
+2024/06/19 15:15:45 [INFO] startNetworkingThread() - all transaction details are validated. the current coin balance is 16.
+2024/06/19 15:15:45 [INFO] startNetworkingThread() - the current coin balance is enough for transaction to occurs.
+2024/06/19 15:15:45 [INFO] newHashGenerator() - trying to generate a new block with block id:7, from:1, to:2, amount:1, offset:18005, curr hash:1234504534976082567, prev hash:12345676051552483821.
+2024/06/19 15:15:45 [INFO] ValidateNewBlock() - validating the new block.
+2024/06/19 15:15:45 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2024/06/19 15:15:45 [INFO] GetTransactedCurrCoinBalance() - user 1 has 16 coin.
+2024/06/19 15:15:45 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2024/06/19 15:15:45 [INFO] GetTransactedCurrCoinBalance() - user 1 has 16 coin.
+2024/06/19 15:15:45 [INFO] ValidateNewBlock() - the new block is a correct block.
+2024/06/19 15:15:45 [INFO] SubmitNewBlock() - A new block is added to the blockchain with block id:7, from:1, to:2, amount:1, offset:18005, curr hash:1234504534976082567, prev hash:12345676051552483821.
+2024/06/19 15:15:47 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2024/06/19 15:15:47 [INFO] GetTransactedCurrCoinBalance() - user 1 has 15 coin.
+2024/06/19 15:15:48 [INFO] PostingTransaction() - post a transaction.
+2024/06/19 15:15:48 [INFO] startNetworkingThread() - dequeue a transaction from 1 to 2 with amount of 1.
+2024/06/19 15:15:48 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2024/06/19 15:15:48 [INFO] GetTransactedCurrCoinBalance() - user 1 has 15 coin.
+2024/06/19 15:15:48 [INFO] startNetworkingThread() - all transaction details are validated. the current coin balance is 15.
+2024/06/19 15:15:48 [INFO] startNetworkingThread() - the current coin balance is enough for transaction to occurs.
+2024/06/19 15:15:48 [INFO] newHashGenerator() - trying to generate a new block with block id:8, from:1, to:2, amount:1, offset:14925, curr hash:12345588504313485440, prev hash:1234504534976082567.
+2024/06/19 15:15:48 [INFO] ValidateNewBlock() - validating the new block.
+2024/06/19 15:15:48 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2024/06/19 15:15:48 [INFO] GetTransactedCurrCoinBalance() - user 1 has 15 coin.
+2024/06/19 15:15:48 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2024/06/19 15:15:48 [INFO] GetTransactedCurrCoinBalance() - user 1 has 15 coin.
+2024/06/19 15:15:48 [INFO] ValidateNewBlock() - the new block is a correct block.
+2024/06/19 15:15:48 [INFO] SubmitNewBlock() - A new block is added to the blockchain with block id:8, from:1, to:2, amount:1, offset:14925, curr hash:12345588504313485440, prev hash:1234504534976082567.
+2024/06/19 15:15:49 [INFO] PostingTransaction() - post a transaction.
+2024/06/19 15:15:49 [INFO] startNetworkingThread() - dequeue a transaction from 1 to 2 with amount of 1.
+2024/06/19 15:15:49 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2024/06/19 15:15:49 [INFO] GetTransactedCurrCoinBalance() - user 1 has 14 coin.
+2024/06/19 15:15:49 [INFO] startNetworkingThread() - all transaction details are validated. the current coin balance is 14.
+2024/06/19 15:15:49 [INFO] startNetworkingThread() - the current coin balance is enough for transaction to occurs.
+2024/06/19 15:15:49 [INFO] newHashGenerator() - trying to generate a new block with block id:9, from:1, to:2, amount:1, offset:104080, curr hash:12345039744105635303, prev hash:12345588504313485440.
+2024/06/19 15:15:49 [INFO] ValidateNewBlock() - validating the new block.
+2024/06/19 15:15:49 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2024/06/19 15:15:49 [INFO] GetTransactedCurrCoinBalance() - user 1 has 14 coin.
+2024/06/19 15:15:49 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2024/06/19 15:15:49 [INFO] GetTransactedCurrCoinBalance() - user 1 has 14 coin.
+2024/06/19 15:15:49 [INFO] ValidateNewBlock() - the new block is a correct block.
+2024/06/19 15:15:49 [INFO] SubmitNewBlock() - A new block is added to the blockchain with block id:9, from:1, to:2, amount:1, offset:104080, curr hash:12345039744105635303, prev hash:12345588504313485440.
+2024/06/19 15:15:50 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2024/06/19 15:15:50 [INFO] GetTransactedCurrCoinBalance() - user 1 has 13 coin.
+2024/06/19 15:15:53 [INFO] PostingTransaction() - post a transaction.
+2024/06/19 15:15:53 [INFO] startNetworkingThread() - dequeue a transaction from 1 to 2 with amount of 1.
+2024/06/19 15:15:53 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2024/06/19 15:15:53 [INFO] GetTransactedCurrCoinBalance() - user 1 has 13 coin.
+2024/06/19 15:15:53 [INFO] startNetworkingThread() - all transaction details are validated. the current coin balance is 13.
+2024/06/19 15:15:53 [INFO] startNetworkingThread() - the current coin balance is enough for transaction to occurs.
+2024/06/19 15:15:53 [INFO] newHashGenerator() - trying to generate a new block with block id:10, from:1, to:2, amount:1, offset:19185, curr hash:12345750950869573175, prev hash:12345039744105635303.
+2024/06/19 15:15:53 [INFO] ValidateNewBlock() - validating the new block.
+2024/06/19 15:15:53 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2024/06/19 15:15:53 [INFO] GetTransactedCurrCoinBalance() - user 1 has 13 coin.
+2024/06/19 15:15:53 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2024/06/19 15:15:53 [INFO] GetTransactedCurrCoinBalance() - user 1 has 13 coin.
+2024/06/19 15:15:53 [INFO] ValidateNewBlock() - the new block is a correct block.
+2024/06/19 15:15:53 [INFO] SubmitNewBlock() - A new block is added to the blockchain with block id:10, from:1, to:2, amount:1, offset:19185, curr hash:12345750950869573175, prev hash:12345039744105635303.
+2024/06/19 15:15:53 [INFO] PostingTransaction() - post a transaction.
+2024/06/19 15:15:53 [INFO] startNetworkingThread() - dequeue a transaction from 1 to 2 with amount of 1.
+2024/06/19 15:15:53 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2024/06/19 15:15:53 [INFO] GetTransactedCurrCoinBalance() - user 1 has 12 coin.
+2024/06/19 15:15:53 [INFO] startNetworkingThread() - all transaction details are validated. the current coin balance is 12.
+2024/06/19 15:15:53 [INFO] startNetworkingThread() - the current coin balance is enough for transaction to occurs.
+2024/06/19 15:15:53 [INFO] newHashGenerator() - trying to generate a new block with block id:11, from:1, to:2, amount:1, offset:28535, curr hash:1234545084130827989, prev hash:12345750950869573175.
+2024/06/19 15:15:53 [INFO] ValidateNewBlock() - validating the new block.
+2024/06/19 15:15:53 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2024/06/19 15:15:53 [INFO] GetTransactedCurrCoinBalance() - user 1 has 12 coin.
+2024/06/19 15:15:53 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2024/06/19 15:15:53 [INFO] GetTransactedCurrCoinBalance() - user 1 has 12 coin.
+2024/06/19 15:15:53 [INFO] ValidateNewBlock() - the new block is a correct block.
+2024/06/19 15:15:53 [INFO] SubmitNewBlock() - A new block is added to the blockchain with block id:11, from:1, to:2, amount:1, offset:28535, curr hash:1234545084130827989, prev hash:12345750950869573175.
+2024/06/19 15:15:53 [INFO] PostingTransaction() - post a transaction.
+2024/06/19 15:15:53 [ERROR] startNetworkingThread() - an exception occured.
+2024/06/19 15:15:53 [INFO] PostingTransaction() - post a transaction.
+2024/06/19 15:15:53 [INFO] startNetworkingThread() - dequeue a transaction from 1 to 2 with amount of 1.
+2024/06/19 15:15:53 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2024/06/19 15:15:53 [INFO] GetTransactedCurrCoinBalance() - user 1 has 11 coin.
+2024/06/19 15:15:53 [INFO] startNetworkingThread() - all transaction details are validated. the current coin balance is 11.
+2024/06/19 15:15:53 [INFO] startNetworkingThread() - the current coin balance is enough for transaction to occurs.
+2024/06/19 15:15:53 [INFO] newHashGenerator() - trying to generate a new block with block id:12, from:1, to:2, amount:1, offset:107460, curr hash:12345311661771103229, prev hash:1234545084130827989.
+2024/06/19 15:15:53 [INFO] ValidateNewBlock() - validating the new block.
+2024/06/19 15:15:53 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2024/06/19 15:15:53 [INFO] GetTransactedCurrCoinBalance() - user 1 has 11 coin.
+2024/06/19 15:15:53 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2024/06/19 15:15:53 [INFO] GetTransactedCurrCoinBalance() - user 1 has 11 coin.
+2024/06/19 15:15:53 [INFO] ValidateNewBlock() - the new block is a correct block.
+2024/06/19 15:15:53 [INFO] SubmitNewBlock() - A new block is added to the blockchain with block id:12, from:1, to:2, amount:1, offset:107460, curr hash:12345311661771103229, prev hash:1234545084130827989.
+2024/06/19 15:15:54 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2024/06/19 15:15:54 [INFO] GetTransactedCurrCoinBalance() - user 1 has 10 coin.
